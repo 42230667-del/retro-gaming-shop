@@ -68,3 +68,24 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+# Retro Gaming Shop - Phase 2
+This is a functional frontend web application built with **ReactJS** for the CSCI390 course.
+
+## Project Description
+A retro-themed e-commerce interface using neon aesthetics and terminal-style typography.
+
+## Features
+- **React Router:** For seamless navigation between 4 pages.
+- **Responsive Design:** Works on desktops and mobile devices.
+- **Neon UI:** Custom CSS styling with a "Gamer" vibe.
+
+## Pages
+1. **Home:** Introduction to the shop.
+2. **Shop:** Displays featured gaming products.
+3. **About:** Project background.
+4. **Contact:** Support information.
+
+## How to Run
+1. Clone the repo.
+2. Run `npm install`.
+3. Run `npm start`.
